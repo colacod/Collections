@@ -1,4 +1,4 @@
-package br.com.alura.RelacionamentosComColacao2;
+package br.com.alura.RelacionamentosComColecao2;
 
 import java.util.ArrayList;
 import java.util.Collections;

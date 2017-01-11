@@ -1,4 +1,4 @@
-package br.com.alura.RelacionamentosComColacao2;
+package br.com.alura.RelacionamentosComColecao2;
 
 public class Aula implements Comparable<Aula> {
 

@@ -1,4 +1,4 @@
-package br.com.alura.RelacionamentosComColacao;
+package br.com.alura.RelacionamentosComColecao;
 
 import java.util.Collections;
 import java.util.LinkedList;
