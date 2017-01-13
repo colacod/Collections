@@ -2,6 +2,8 @@ package br.com.alura.AulaListaObjetos;
 
 import java.util.*;
 
+import br.com.alura.collections.Aula;
+
 public class TestaListaDeAula {
 
   public static void main(String[] args) {

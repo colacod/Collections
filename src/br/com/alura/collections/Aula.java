@@ -1,4 +1,4 @@
-package br.com.alura.AplicandoSetNoModelo;
+package br.com.alura.collections;
 
 public class Aula implements Comparable<Aula> {
 

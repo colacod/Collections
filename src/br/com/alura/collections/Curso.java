@@ -1,4 +1,4 @@
-package br.com.alura.AplicandoSetNoModelo;
+package br.com.alura.collections;
 
 import java.util.Collections;
 import java.util.HashSet;

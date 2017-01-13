@@ -1,5 +1,9 @@
 package br.com.alura.AplicandoSetNoModelo;
 
+import br.com.alura.collections.Aluno;
+import br.com.alura.collections.Aula;
+import br.com.alura.collections.Curso;
+
 public class TestaCurso {
 
   public static void main(String[] args) {
